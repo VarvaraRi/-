@@ -117,7 +117,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Копия Страница — 1" id="7LpzkgpUaZMD067cDWDc">
-    <mxGraphModel dx="1243" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1988" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="yQtGxOdmjUm_d_wi27j--0" />
         <mxCell id="yQtGxOdmjUm_d_wi27j--1" parent="yQtGxOdmjUm_d_wi27j--0" />
@@ -127,7 +127,7 @@
         <mxCell id="yQtGxOdmjUm_d_wi27j--3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Зарегистрировать заявку&lt;/font&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task2;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="yQtGxOdmjUm_d_wi27j--2" vertex="1">
           <mxGeometry x="80" y="67.5" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="yQtGxOdmjUm_d_wi27j--4" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Получить&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;заявку&lt;/font&gt;&lt;/div&gt;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;opacity=90;" parent="yQtGxOdmjUm_d_wi27j--2" vertex="1">
+        <mxCell id="yQtGxOdmjUm_d_wi27j--4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Получить&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;заявку&lt;/font&gt;&lt;/div&gt;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;opacity=90;" parent="yQtGxOdmjUm_d_wi27j--2" vertex="1">
           <mxGeometry x="30" y="80" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yQtGxOdmjUm_d_wi27j--5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="yQtGxOdmjUm_d_wi27j--2" source="yQtGxOdmjUm_d_wi27j--4" target="yQtGxOdmjUm_d_wi27j--3" edge="1">
